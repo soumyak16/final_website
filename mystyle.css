@@ -1,8 +1,11 @@
 
 
-h1 
-	{
-	text-align: center;
+
+body {
+		background-image: url ('https://s-media-cache-ak0.pinimg.com/originals/74/3a/26/743a26da2b89f72198339ff19e0fea20.png');
+	}
+
+	h1 {text-align: center;
 	font-family: 'Raleway', sans-serif;
 	font-size: 20px;
 	color: white;
@@ -17,6 +20,5 @@ h2
 
 	}
 
-body {
-		background-image: url ('https://s-media-cache-ak0.pinimg.com/originals/74/3a/26/743a26da2b89f72198339ff19e0fea20.png')
-	}
+	
+
